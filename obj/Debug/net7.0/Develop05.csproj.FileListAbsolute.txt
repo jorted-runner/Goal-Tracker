@@ -1,0 +1,14 @@
+C:\Users\dee.HFMLEGAL\cse210-hw\prove\Develop05\bin\Debug\net7.0\Develop05.exe
+C:\Users\dee.HFMLEGAL\cse210-hw\prove\Develop05\bin\Debug\net7.0\Develop05.deps.json
+C:\Users\dee.HFMLEGAL\cse210-hw\prove\Develop05\bin\Debug\net7.0\Develop05.runtimeconfig.json
+C:\Users\dee.HFMLEGAL\cse210-hw\prove\Develop05\bin\Debug\net7.0\Develop05.dll
+C:\Users\dee.HFMLEGAL\cse210-hw\prove\Develop05\bin\Debug\net7.0\Develop05.pdb
+C:\Users\dee.HFMLEGAL\cse210-hw\prove\Develop05\obj\Debug\net7.0\Develop05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dee.HFMLEGAL\cse210-hw\prove\Develop05\obj\Debug\net7.0\Develop05.AssemblyInfoInputs.cache
+C:\Users\dee.HFMLEGAL\cse210-hw\prove\Develop05\obj\Debug\net7.0\Develop05.AssemblyInfo.cs
+C:\Users\dee.HFMLEGAL\cse210-hw\prove\Develop05\obj\Debug\net7.0\Develop05.csproj.CoreCompileInputs.cache
+C:\Users\dee.HFMLEGAL\cse210-hw\prove\Develop05\obj\Debug\net7.0\Develop05.dll
+C:\Users\dee.HFMLEGAL\cse210-hw\prove\Develop05\obj\Debug\net7.0\refint\Develop05.dll
+C:\Users\dee.HFMLEGAL\cse210-hw\prove\Develop05\obj\Debug\net7.0\Develop05.pdb
+C:\Users\dee.HFMLEGAL\cse210-hw\prove\Develop05\obj\Debug\net7.0\Develop05.genruntimeconfig.cache
+C:\Users\dee.HFMLEGAL\cse210-hw\prove\Develop05\obj\Debug\net7.0\ref\Develop05.dll
